@@ -1,0 +1,10 @@
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.csprojAssemblyReference.cache
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.Properties.Resources.resources
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\keylistener\keylistener\bin\Debug\keylistener.exe.config
+C:\Users\astro\source\repos\keylistener\keylistener\bin\Debug\keylistener.exe
+C:\Users\astro\source\repos\keylistener\keylistener\bin\Debug\keylistener.pdb
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.Form1.resources
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.exe
+C:\Users\astro\source\repos\keylistener\keylistener\obj\Debug\keylistener.pdb

